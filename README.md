@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey There 👋
+I am Daksham, a **programmer** who usually *writes code* for websites and apps.
 
-<!--
-**dakshamdev/dakshamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I can be called as a  👨‍🎨	**Front-End Developer** as
+-> I can *design* your Websites.
+-> *Code* your websites.
+-> Make your website the *fastest of all* and...
+-> I can make them *adapt to every device* almost perfectly.
 
-Here are some ideas to get you started:
+I can even be called a 🤖**Backend Developer** as:
+-> I can make your websites *make websites and apps work smartly*.
+-> I can make websites and apps *get most out of the least*.
+-> And whatever you want your website to do, I will *instruct it* to do so ;-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can be considered a 🤗	**Database Developer**:
+-> I can make your databases be more *accurate*.
+-> I can reduce your server-side query cost by feeding it with *smarter and efficient queries*.
